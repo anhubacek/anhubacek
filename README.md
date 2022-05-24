@@ -11,11 +11,33 @@ Studing programming is something that i always had in mind and today i have acco
 <br>
 Now i'm seeking to insert myself into the IT world as a Full-Stack or Front-End Developer, in a work environment that allows and encourages farther training, innovation and participation.
 <br>
-The technologies that i work with are Javascript, React.js, Redux, Node.js, Express.js, Sequelize, PostgreSQL, HTML and CSS.
+My technologies current stack:
+<br>
+✔Javascript
+<br>
+✔React.js
+<br>
+✔Redux
+<br>
+✔Node.js
+<br>
+✔Express.js
+<br>
+✔Sequelize
+<br>
+✔PostgreSQL
+<br>
+✔HTML5
+<br>
+✔CSS
+<br>
+✔Github
+<br>
+<br>
+<br>
 If you would like to know more about me, contact me!
 <br>
-<br>
-<br>
+
 Email:
 <br>
 hubacekk@gmail.com
