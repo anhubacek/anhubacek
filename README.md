@@ -6,15 +6,15 @@
 ![img](/images/andreahubacek1.jpeg)
 <br>
 <br>
-### I am a creative, visual, resourceful and decisive person, open to new ideas. One of my biggest passions is photography, I love making portraits and capturing details. My other passions are design, technology and astrology.
+I am a creative, visual, resourceful and decisive person, open to new ideas. One of my biggest passions is photography, I love making portraits and capturing details. My other passions are design, technology and astrology.
 <br>
-### Studing programming is something that i always had in mind and today i have accomplished that dream.
+Studing programming is something that i always had in mind and today i have accomplished that dream.
 <br>
-### Now i'm seeking to insert myself into the IT world as a Full-Stack or Front-End Developer, in a work environment that allows and encourages farther training, innovation and participation 🙋🏻.
+Now i'm seeking to insert myself into the IT world as a Full-Stack or Front-End Developer, in a work environment that allows and encourages farther training, innovation and participation 🙋🏻.
 <br>
 <br>
 <br>
-### 🔸️ My technologies current stack:
+🔸️ My technologies current stack:
 <br>
 ✔Javascript
 <br>
@@ -38,7 +38,7 @@
 <br>
 <br>
 <br>
-### 🔸️ If you would like to know more about me, contact me!
+🔸️ If you would like to know more about me, contact me!
 <br>
 
 Email:
@@ -46,7 +46,7 @@ Email:
 hubacekk@gmail.com
 <br>
 <br>
-### 🔸️ You can see my proyect videos on Linkedin:
+🔸️ You can see my proyect videos on Linkedin:
 <br>
 https://www.linkedin.com/in/andreahubacek/
 
