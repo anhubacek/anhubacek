@@ -14,10 +14,12 @@ The technologies that i work with are Javascript, React.js, Redux, Node.js, Expr
 
 If you wanna know more, contact me:
 <br>
+<br>
 Email:
 <br>
 hubacekk@gmail.com
 <br>
-Linkedin:
+<br>
+You can see my proyect videos on Linkedin:
 <br>
 https://www.linkedin.com/in/andreahubacek/
