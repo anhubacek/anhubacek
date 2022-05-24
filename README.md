@@ -5,17 +5,14 @@
 
 ![img](/images/andreahubacek1.jpeg)
 
-I'm a very visual, creative, self-taught, and resourceful person.
-I dabbled into the programming world first on my very own. Today i find myself having finished the Full-Stack Development Bootcamp at Henry.
-I’m passionate about photography, art, design and technology.
+I am a creative, visual, resourceful and decisive person, open to new ideas. One of my biggest passions is photography, I love making portraits and capturing details. My other passions are design, technology and astrology.
+<br>
+Studing programming is something that i always had in mind and today i have accomplished that dream
+Now i'm seeking to insert myself into the IT world as a Full-Stack or Front-End Developer, in a work environment that allows and encourages farther training, innovation and participation.
 <br>
 The technologies that i work with are Javascript, React.js, Redux, Node.js, Express.js, Sequelize, PostgreSQL, HTML and CSS.
-
+If you would like to know more about me, contact me!
 <br>
-<br>
-<br>
-<br>
-If you wanna know more, contact me:
 <br>
 <br>
 Email:
