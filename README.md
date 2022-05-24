@@ -7,7 +7,8 @@
 
 I am a creative, visual, resourceful and decisive person, open to new ideas. One of my biggest passions is photography, I love making portraits and capturing details. My other passions are design, technology and astrology.
 <br>
-Studing programming is something that i always had in mind and today i have accomplished that dream
+Studing programming is something that i always had in mind and today i have accomplished that dream.
+<br>
 Now i'm seeking to insert myself into the IT world as a Full-Stack or Front-End Developer, in a work environment that allows and encourages farther training, innovation and participation.
 <br>
 The technologies that i work with are Javascript, React.js, Redux, Node.js, Express.js, Sequelize, PostgreSQL, HTML and CSS.
