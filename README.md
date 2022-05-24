@@ -26,10 +26,9 @@ hubacekk@gmail.com
 You can see my proyect videos on Linkedin:
 <br>
 https://www.linkedin.com/in/andreahubacek/
-<br>
-<br>
+
 ### The Food App
-![img](/images/food.jpeg)
-<br>
+![theFoodApp](/images/food.jpeg)
+
 ### AkademIT
-![img](/images/akademit.jpeg)
+![AkademIT](/images/akademit.jpeg)
