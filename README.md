@@ -3,7 +3,7 @@
 ## I'm Andrea and i'm a Full Stack Web Developer
 
 
-![img](/images/andreahubacek.jpeg)
+![img](/images/andreahubacek1.jpeg)
 
 I'm a very visual, creative, self-taught, and resourceful person.
 I dabbled into the programming world first on my very own. Today i find myself having finished the Full-Stack Development Bootcamp at Henry.
