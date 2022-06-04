@@ -53,5 +53,8 @@ https://www.linkedin.com/in/andreahubacek/
 ### The Food App
 ![theFoodApp](/images/food.jpeg)
 
+### Weather App
+![weatherApp](/images/weatherok.jpeg)
+
 ### AkademIT
 ![AkademIT](/images/akademit.jpeg)
