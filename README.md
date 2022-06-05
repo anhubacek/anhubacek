@@ -38,7 +38,7 @@ Now i'm seeking to insert myself into the IT world as a Full-Stack or Front-End 
 <br>
 <br>
 <br>
-🔸️ If you would like to know more about me, contact me!
+🔸️ If you want to know more about me, contact me!
 <br>
 
 Email:
