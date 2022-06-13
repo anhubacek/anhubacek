@@ -2,8 +2,6 @@
 
 ## I'm Andrea and i'm a Full Stack Web Developer
 
-
-![img](/images/andreahubacek1.jpeg)
 <br>
 <br>
 I am a creative, visual, resourceful and decisive person, open to new ideas. One of my great passions is photography, I love making portraits and capturing details. My other passions are design, technology and astrology.
