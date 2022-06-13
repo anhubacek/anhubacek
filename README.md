@@ -38,7 +38,7 @@ Linkedin:
 https://www.linkedin.com/in/andreahubacek/
 <br>
 <br>
-### Please feel free to check my proyects! 
+Please feel free to check my proyects! 
 <br>
 https://luxury-presence-andrea-hubacek.netlify.app/
 <br>
