@@ -1,14 +1,6 @@
 ### Hi there 👋 welcome to my profile!
 
-## I'm Andrea and i'm a Full Stack Web Developer
-<br>
-I am a creative, visual, resourceful and decisive person, open to new ideas. One of my great passions is photography, I love making portraits and capturing details. My other passions are design, technology and astrology.
-<br>
-Studing programming is something that i always had in mind and today i have accomplished that dream.
-<br>
-Now i'm seeking to insert myself into the IT world as a Full-Stack or Front-End Developer, in a work environment that allows and encourages farther training, innovation and participation 🙋🏻.
-<br>
-<br>
+## I'm Andrea and i'm a Front-End oriented Full Stack Developer
 <br>
 🔸️ My technologies current stack:
 <br>
@@ -36,21 +28,22 @@ Now i'm seeking to insert myself into the IT world as a Full-Stack or Front-End 
 <br>
 🔸️ If you want to know more about me, contact me!
 <br>
-
 Email:
 <br>
 hubacekk@gmail.com
 <br>
 <br>
-🔸️ You can see my proyect videos on Linkedin:
+Linkedin:
 <br>
 https://www.linkedin.com/in/andreahubacek/
-
-### The Food App
-![theFoodApp](/images/food.jpeg)
-
-### Weather App
-![weatherApp](/images/weatherok.jpeg)
-
-### AkademIT
-![AkademIT](/images/akademit.jpeg)
+<br>
+<br>
+### Please feel free to check my proyects! 
+<br>
+https://luxury-presence-andrea-hubacek.netlify.app/
+<br>
+https://weather-app-andrea-hubacek.netlify.app/
+<br>
+https://youtu.be/bw2OQ0Ld87s
+<br>
+https://youtu.be/iuSiIuAF4HA
