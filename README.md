@@ -14,7 +14,11 @@
 <br>
 ✔Express.js
 <br>
-✔Sequelize
+✔Nest.js
+<br>
+✔Next.js
+<br>
+✔Typescript
 <br>
 ✔PostgreSQL
 <br>
@@ -22,8 +26,11 @@
 <br>
 ✔CSS
 <br>
-✔Github
+✔Datadog
 <br>
+✔Postman
+<br>
+✔Sequelize
 <br>
 <br>
 🔸️ If you want to know more about me, contact me!
