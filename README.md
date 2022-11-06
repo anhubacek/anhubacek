@@ -1,6 +1,6 @@
 ### Hi there 👋 welcome to my profile!
 
-## I'm Andrea and i'm a Front-End oriented Full Stack Developer
+## I'm Andrea and i'm a Full Stack Web Developer
 <br>
 🔸️ My technologies current stack:
 <br>
