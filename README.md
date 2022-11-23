@@ -1,4 +1,4 @@
-### Hi there 👋 welcome to my profile!
+### Hi there 👋 welcome!
 
 ## I'm Andrea and i'm a Full Stack Web Developer
 <br>
