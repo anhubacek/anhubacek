@@ -30,8 +30,6 @@
 <br>
 ✔Postman
 <br>
-✔Sequelize
-<br>
 <br>
 🔸️ If you want to know more about me, contact me!
 <br>
