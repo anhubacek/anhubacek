@@ -14,9 +14,6 @@ Linkedin:
 https://www.linkedin.com/in/andreahubacek/
 <br>
 <br>
-Portfolio:
-<br>
-https://andreahubacek.vercel.app/
 <br>
 <br>
 
