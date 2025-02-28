@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <h3 align="left">My stack:</h3>
-<h3 align="center">JavaScript, Typescript, React, Next, Redux, Astro, HTML, CSS, SCSS, Styled-Components, Expo, ReactNative, Express, MongoDB, MySQL, MariaDB, PostgreSQL, Postman, Strapi, Ghost, Datadog, Jira, Notion, Figma</h3>
+<h3 align="center">Javascript, Typescript, React, Next, Redux, Astro, HTML, CSS, SCSS, Styled-Components, Expo, ReactNative, Express, MongoDB, MySQL, MariaDB, PostgreSQL, Postman, Strapi, Ghost, Datadog, Jira, Notion, Figma</h3>
 
 <br/>
 <h3 align="left">Let's get in touch!</h3>
