@@ -10,9 +10,6 @@
 <a href="https://www.linkedin.com/in/andreahubacek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andreahubacek/" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-<a href="https://www.behance.net/andreahubacek" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/544/1015/png-transparent-behance-logo-graphic-design-like-and-share-blue-text-trademark-thumbnail.png" alt="https://www.behance.net/andreahubacek" height="30" width="40" /></a>
-</p>
 <br/>
 📫 anhubacek@gmail.com
 
